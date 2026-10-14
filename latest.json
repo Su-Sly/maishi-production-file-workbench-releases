@@ -1,0 +1,11 @@
+{
+  "version": "0.1.4",
+  "notes": "受控恢复试用版：更新清单和安装包使用同一独立GitHub公开仓的官方raw/API服务，保留原签名密钥及安全保存流程。仅本人试用，不替换OneDrive。恢复安装不算应用内升级验收，登录和文件同步仍需真实验证。\n",
+  "pub_date": "2026-10-14T17:00:24.309Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTUZSM1ltektpelVDVWh2dWs0bmNrSWZVTUhUMDEyTGhCTWhOai9CeXNtTXUrWWlTMEhjUjR1czFENVdMczJzOEpLcm5ENkNLZk5FQVl5OWtPNTFyNU8xRGJVUVpmc3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTk2NzI0CWZpbGU66bqm55+z55Sf5Lqn5paH5Lu25bel5L2c5Y+wXzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApQdk4vMzVqZHdoVnlNb0FQU3BEc1p5cjRYbmNkN1paSDh5SWh6d1F5Q0ZBeCs1cUNDelFDVWZLZEppOWVlZmJlRjBYdmorRnRKTDBHRWFZclV2Y0hBUT09Cg==",
+      "url": "https://api.github.com/repos/Su-Sly/maishi-production-file-workbench-releases/releases/assets/641037990"
+    }
+  }
+}
